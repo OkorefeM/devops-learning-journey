@@ -21,13 +21,3 @@ I’m CompTIA A+, CompTIA Security+, Google Cybersecurity, and ISC² Certified, 
 - [ ] Month 6: Kubernetes & Final Projects
 
 ## Weekly Updates
-[You'll add updates here each week]
-```
-
-**How to update it weekly:**
-- Click on README.md in your repository
-- Click the pencil icon (Edit)
-- Add your weekly progress at the bottom
-- Scroll down, add a commit message like "Week 1 update"
-- Click "Commit changes"
-
