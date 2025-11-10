@@ -5,8 +5,6 @@ Hi, I’m Marho Okorefe — a passionate tech enthusiast with a strong foundatio
 
 I’m CompTIA A+, CompTIA Security+, Google Cybersecurity, and ISC² Certified, with hands-on knowledge in hardware, networking, and operating systems. My goal is to combine these skills with DevOps tools and practices to streamline deployment pipelines and enhance system reliability.
 
- Always learning. Always building.
-
 ## Goals
 - Become a Cloud/DevOps Engineer in 6 months
 - Build hands-on projects
